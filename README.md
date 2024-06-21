@@ -1,5 +1,5 @@
 - 👋 Olá, sou @MaxKimura
 - ⚡ Atuo como Analista de Testes/QA.
 - 📚 Além de testes manuais, estou aprendendo e atualizando conhecimentos em automação de Testes.
-- 💞️ Procuro projetos onde possa colaborar utilizando Cypress, Playwright e JS.
+- 💞️ Procuro projetos onde possa colaborar utilizando Playwright TS/JS.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/maxwell-kimura-4328bb150
